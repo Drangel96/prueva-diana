@@ -1,2 +1,2 @@
-# prueva-repositorio
-mi segundo repositorio en github para curso 
+# prueva-README
+mi segundo repositorio en github para curso  
